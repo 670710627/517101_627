@@ -13,7 +13,7 @@
 |---|---|---|---|---|
 | 1 | `เบล` | `670710151` | `@670710151` | Concept + Code |
 | 2 | `โฟค` | `670710627` | `@670710627` | Code + Demo |
-| 3 | `[ชื่อ-นามสกุล]` | `[รหัส]` | `@[username]` | Rust vs Other Language + PPL |
+| 3 | `someone` | `123` | `@[username]` | Rust vs Other Language + PPL |
 | 4 | `[ชื่อ-นามสกุล]` | `[รหัส]` | `@[username]` | Exercises + Common Mistakes |
 
 ---
