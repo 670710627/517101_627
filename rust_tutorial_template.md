@@ -12,8 +12,8 @@
 | # | Name | Student ID | GitHub Username | Main Responsibility |
 |---|---|---|---|---|
 | 1 | `เบล` | `670710151` | `@670710151` | Concept + Code |
-| 2 | `[ชื่อ-นามสกุล]` | `[รหัส]` | `@[username]` | Code + Demo |
-| 3 | `someone` | `123` | `@[username]` | Rust vs Other Language + PPL |
+| 2 | `folk` | `[670710627]` | `@[tad]` | Code + Demo |
+| 3 | `[ชื่อ-นามสกุล]` | `[รหัส]` | `@[username]` | Rust vs Other Language + PPL |
 | 4 | `[ชื่อ-นามสกุล]` | `[รหัส]` | `@[username]` | Exercises + Common Mistakes |
 
 ---
