@@ -11,7 +11,7 @@
 
 | # | Name | Student ID | GitHub Username | Main Responsibility |
 |---|---|---|---|---|
-| 1 | `[ชื่อ-นามสกุล]` | `[รหัส]` | `@[username]` | Concept + Code |
+| 1 | `Bell` | `151` | `@[username]` | Concept + Code |
 | 2 | `folk` | `627` | `@[username]` | Code + Demo |
 | 3 | `[ชื่อ-นามสกุล]` | `[รหัส]` | `@[username]` | Rust vs Other Language + PPL |
 | 4 | `[ชื่อ-นามสกุล]` | `[รหัส]` | `@[username]` | Exercises + Common Mistakes |
@@ -103,15 +103,15 @@ fn main() {
 
 | Syntax / Rule | Meaning | Example |
 |---|---|---|
-| `[syntax/rule]` | `[ความหมาย]` | `[ตัวอย่าง]` |
-| `[syntax/rule]` | `[ความหมาย]` | `[ตัวอย่าง]` |
-| `[syntax/rule]` | `[ความหมาย]` | `[ตัวอย่าง]` |
+| `[xyxyyxy` | `[xyxydgsdgsd` | `[ตัวอย่าง]` |
+| `[sfafsasasf` | `sadasdasfsaff` | `[ตัวอย่าง]` |
+| `vcxvxcvxcv` | `xcvxcvxvxvcvxv` | `[ตัวอย่าง]` |
 
 ### Important Rules
 
-1. `[กฎสำคัญข้อที่ 1]`
-2. `[กฎสำคัญข้อที่ 2]`
-3. `[กฎสำคัญข้อที่ 3]`
+1. `[1111111111111`
+2. `[2222222222222222222`
+3. `[33333333333333333333`
 
 ---
 
