@@ -11,10 +11,10 @@
 
 | # | Name | Student ID | GitHub Username | Main Responsibility |
 |---|---|---|---|---|
-| 1 | `Bell` | `151` | `@[username]` | Concept + Code |
+| 1 | `[bell]` | `[151]` | `@[useasasdfas]` | Concept + Code |
 | 2 | `folk` | `627` | `@[username]` | Code + Demo |
-| 3 | `[ชื่อ-นามสกุล]` | `[รหัส]` | `@[username]` | Rust vs Other Language + PPL |
-| 4 | `[ชื่อ-นามสกุล]` | `[รหัส]` | `@[username]` | Exercises + Common Mistakes |
+| 3 | `[ชื่อ-นามasdfasfasdfdasสกุล]` | `[asdf]` | `@[asljdfh]` | Rust vs Other Language + PPL |
+| 4 | `[ชื่อ-นasdfasdfามสกุล]` | `[รหัasdfส]` | `@[laskdjf]` | Exercises + Common Mistakes |
 
 ---
 
@@ -22,10 +22,10 @@
 
 หลังจากศึกษา Topic นี้แล้ว ผู้เรียนสามารถ:
 
-1. `[อธิบายแนวคิดสำคัญได้]`
-2. `[เขียนโปรแกรม Rust ที่เกี่ยวข้องได้]`
-3. `[วิเคราะห์พฤติกรรม/กฎของภาษาได้]`
-4. `[เปรียบเทียบ Rust กับภาษาอื่นได้]`
+1. `[what]`
+2. `[เขียนโปรแกรม asdf ที่เกี่ยวข้องได้]`
+3. `[asdf/กฎของภาษาได้]`
+4. `[เปรียบเทียบ Rust asdf]`
 
 ---
 
@@ -43,7 +43,7 @@
 
 **คำอธิบาย**
 
-`[อธิบายแนวคิด]`
+`[asdfด]`
 
 **ตัวอย่าง**
 
@@ -55,13 +55,13 @@ fn main() {
 
 **Explanation**
 
-`[อธิบายว่า code ทำงานอย่างไร]`
+`[asdfasdfasdfasdf]`
 
 ---
 
-### 4.2 `[Concept 2]`
+### 4.2 `[Conasdfsadfasfcept 2]`
 
-`[อธิบายแนวคิด]`
+`[asdfasdfasdfsadf]`
 
 ```rust
 // Rust code
@@ -69,19 +69,9 @@ fn main() {
 
 ---
 
-### 4.3 `[Concept 3]`
+### 4.3 `[Conasdfasdfasdfcept 3]`
 
-`[อธิบายแนวคิด]`
-
-```rust
-// Rust code
-```
-
----
-
-### 4.4 `[Concept 4 — ถ้ามี]`
-
-`[อธิบายแนวคิด]`
+`[asdfasdfasdfasdfคิด]`
 
 ```rust
 // Rust code
@@ -89,9 +79,19 @@ fn main() {
 
 ---
 
-### 4.5 `[Concept 5 — ถ้ามี]`
+### 4.4 `[Concasdfasfept 4 — ถ้ามี]`
 
-`[อธิบายแนวคิด]`
+`[asdfasdfasdfasf]`
+
+```rust
+// Rust code
+```
+
+---
+
+### 4.5 `[sadfasdfasdfasdf 5 — ถ้ามี]`
+
+`[อธิบายแนasdfasfasdfasdfasวคิด]`
 
 ```rust
 // Rust code
